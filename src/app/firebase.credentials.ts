@@ -1,4 +1,4 @@
-export const FIREBASE_CREDENTIAS = {
+export const FIREBASE_CREDENTIALS = {
     apiKey: "AIzaSyDYtvAz0iFf7ATROSOIIp9z1LIX4iJP5ts",
     authDomain: "fir-crud-9afde.firebaseapp.com",
     databaseURL: "https://fir-crud-9afde.firebaseio.com",
